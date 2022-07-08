@@ -3,7 +3,7 @@
 "spider":"https://gitea.com/kandianshi/tv/raw/branch/main/jar/custom_spider4.jar",
 
 // 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9maW5kY29weS9ib3gvbWFpbi9saXZlLnR4dA=="]}]}],
 
 "sites":[
 {"key":"360_spider"        ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
