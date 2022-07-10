@@ -391,7 +391,9 @@
 {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 #
 #优质资源
-{"key":"旋风","name":"旋风","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl":"json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","searchable":1,"fileterable":1,"categories":[]},
+{"key":"极速" ,"name":"极速","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":","searchable":1, "quickSearch":1,"filterable":
+0,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"旋风","name":"旋风","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl":"json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","searchable":1,"filterable":1,"categories":[]},
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"看看资源","name":"看看资源(优)","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
@@ -469,6 +471,11 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 # type1 聚合.并发.轮询
 {"name":"左岸","type":1,"url":"https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url="},
+{"name":"11", "type":1,"url":"106.52.218.221:88/?url=","ext":{"flag":["qq","腾讯", "qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒
+果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"19","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name":"9","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+{"name":"11","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
 {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
